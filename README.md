@@ -21,7 +21,7 @@ Estudante de Data Science nos cursos Data Science Na Prática 3.0 (Sigmoidal) e 
 ## Projetos:
 Em construção - Aqui seguem alguns dos projetos executados que foram concluídos.
 
-* **Projeto teste: 01** LINK
+* [**Análise de Dados Airbnb (Rio de Janeiro)**](https://colab.research.google.com/drive/13hnJNti1lUheVybzquj9R7YZmc0aU2cb?usp=sharing)
 * **Projeto teste: 02** LINK
 
 ---
