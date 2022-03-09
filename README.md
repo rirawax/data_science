@@ -9,7 +9,7 @@ Meu portfólio de projetos de Data Science.
 # Erik Reis
 <sub>*Data Scientist*</sub>
 
-Estudante de Data Science nos cursos Data Science Na Prática 3.0 (Sigmoidal) e Allura 
+Estudante de Data Science nos cursos Data Science Na Prática 3.0 (Sigmoidal) e Projeto Desenvolve do Grupo Boticário (Allura) 
 
 **Background in:** Python, Data Analysis and Machine Learning
 
